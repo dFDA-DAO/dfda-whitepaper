@@ -73,8 +73,8 @@ So the 1962 efficacy mandate simply doesn't weigh the costs of the regulatory bu
 [excessive-patent-monopolies.md](1-introduction-and-challenges/excessive-patent-monopolies.md)
 {% endcontent-ref %}
 
-{% content-ref url="1-introduction-and-challenges/inability-to-determine-comparative-efficacy.md" %}
-[inability-to-determine-comparative-efficacy.md](1-introduction-and-challenges/inability-to-determine-comparative-efficacy.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="1-introduction-and-challenges/pre-determining-clinical-endpoints-requires-psychic-powers.md" %}

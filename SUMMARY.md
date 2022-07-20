@@ -15,7 +15,6 @@
   * [🔮 Pre-Determining Clinical Endpoints Requires Psychic Powers](1-introduction-and-challenges/pre-determining-clinical-endpoints-requires-psychic-powers.md)
   * [🥸 Trials Often Aren't Representative of Real Patients](1-introduction-and-challenges/trials-often-arent-representative-of-real-patients.md)
   * [❓ We Only Know The Effects of 0.000000002% of Potential Therapies](1-introduction-and-challenges/we-only-know-the-effects-of-0.000000002-of-potential-therapies.md)
-  * [⚖ Inability to Determine Comparative Efficacy](1-introduction-and-challenges/inability-to-determine-comparative-efficacy.md)
   * [☠ Slowed Growth in Life Expectancy](1-introduction-and-challenges/slowed-growth-in-life-expectancy.md)
 * [🪙 Futarchy-Based Efficacy Trials](6-tokenomics.md)
 * [📈 Supporting Evidence](supporting-evidence/README.md)
@@ -27,3 +26,4 @@
   * [👀 Lower Costs of Validated Observational Research for Efficacy](2-solution/lower-costs-of-validated-observational-research-for-efficacy.md)
   * [🌎 Cost Savings from Decentralized Clinical Trials](2-solution/cost-savings-from-decentralized-clinical-trials.md)
 * [📖 References](12-references.md)
+* [🔡 Definitions](definitions.md)
