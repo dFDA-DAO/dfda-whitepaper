@@ -1,10 +1,6 @@
 # Table of contents
 
 * [💊 The Decentralized FDA DAO](README.md)
-* [🪙 Futarchy-Based Efficacy Trials](6-tokenomics.md)
-* [📈 Supporting Evidence](supporting-evidence/README.md)
-  * [📈 Impact of Innovative Medicines on Life Expectancy](supporting-evidence/impact-of-innovative-medicines-on-life-expectancy.md)
-  * [📘 Historical Evidence Supporting Real-Wold Efficacy Trials](supporting-evidence/historical-evidence-supporting-real-wold-efficacy-trials.md)
 * [☠ Problems We Seek To Address](1-introduction-and-challenges/README.md)
   * [🧮 Bias Against Approving Effective Treatments](1-introduction-and-challenges/bias-against-approving-effective-treatments.md)
   * [💰 Clinical Research is Too Expensive](1-introduction-and-challenges/clinical-research-is-too-expensive.md)
@@ -21,6 +17,10 @@
   * [❓ We Only Know The Effects of 0.000000002% of Potential Therapies](1-introduction-and-challenges/we-only-know-the-effects-of-0.000000002-of-potential-therapies.md)
   * [⚖ Inability to Determine Comparative Efficacy](1-introduction-and-challenges/inability-to-determine-comparative-efficacy.md)
   * [☠ Slowed Growth in Life Expectancy](1-introduction-and-challenges/slowed-growth-in-life-expectancy.md)
+* [🪙 Futarchy-Based Efficacy Trials](6-tokenomics.md)
+* [📈 Supporting Evidence](supporting-evidence/README.md)
+  * [📈 Impact of Innovative Medicines on Life Expectancy](supporting-evidence/impact-of-innovative-medicines-on-life-expectancy.md)
+  * [📘 Historical Evidence Supporting Real-Wold Efficacy Trials](supporting-evidence/historical-evidence-supporting-real-wold-efficacy-trials.md)
 * [🎯 Goals](2-solution/README.md)
   * [🎭 More Cures and Less Lifelong Attempts at Masking Symptoms](2-solution/more-cures-and-less-lifelong-attempts-at-masking-symptoms.md)
   * [🧐 Greater Competitive Innovation and Fewer Monopolies](2-solution/greater-competitive-innovation-and-fewer-monopolies.md)
